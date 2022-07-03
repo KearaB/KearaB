@@ -1,3 +1,10 @@
+
+
+![banner](https://user-images.githubusercontent.com/100834626/177051725-12fafb53-f120-4c5c-b7f9-2cc583a1b805.png)
+
+
+
+
 # Hi there 👋🏻,  Keara here.
 
 ## I am an aspiring Data Scientist from South Africa.
