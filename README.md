@@ -1,12 +1,19 @@
-### Hi there 👋,  Keara here.
-#### I am an aspiring Data Scientist from South Africa.
+# Hi there 👋,  Keara here.
+## I am an aspiring Data Scientist from South Africa.
 
 I love solving modern-day problems using classical strategies.
 
-Skills: Python3 / SQL / PowerBI / Git
+###Skills: 
+* Python3 
+* SQL 
+* PowerBI 
+* Git
 
 - 🌱 I’m currently learning how to work with unsupervised learning models. 
-- 💬 Ask me about Machine learning algorithms, and anything data! 
+- 💬 Ask me about Machine learning algorithms and anything data! 
+
+
+
 - 📫 How to reach me: kbarnard625@gmail.com 
 
 
