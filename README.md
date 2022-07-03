@@ -1,9 +1,10 @@
 # Hi there 👋,  Keara here.
+
 ## I am an aspiring Data Scientist from South Africa.
 
 I love solving modern-day problems using classical strategies.
 
-###Skills: 
+### Skills: 
 * Python3 
 * SQL 
 * PowerBI 
