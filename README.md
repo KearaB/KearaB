@@ -19,13 +19,13 @@ I love solving modern-day problems using classical strategies.
 * SQL 🐬
 * PowerBI 📊
 * Git 👩🏻‍💻
+* Machine Learning 🤖
 
 - 🌱 I’m currently learning how to work with unsupervised learning models. 
 - 💬 Ask me about Machine learning algorithms and anything data! 
-
-
-
 - 📫 How to reach me: kbarnard625@gmail.com 
+
+
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/KearaB)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>]([https://www.linkedin.com/in/Keara Barnard/](https://www.linkedin.com/in/keara-barnard/))  
