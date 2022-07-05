@@ -25,7 +25,7 @@ I love solving modern-day problems using classical strategies.
 - 💬 Ask me about Machine learning algorithms and anything data! 
 - 📫 How to reach me: kbarnard625@gmail.com 
 - 😼 GitHub: https://github.com/KearaB
-- 🔗 LinkedIn: https://www.linkedin.com/in/Keara Barnard/
+- 🔗 LinkedIn: https://www.linkedin.com/in/Keara_Barnard/
 
 
 
