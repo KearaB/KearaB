@@ -21,8 +21,8 @@ I love solving modern-day problems using classical strategies.
 * Git 👩🏻‍💻
 * Machine Learning 🤖
 
-- 🌱 I’m currently learning how to work with unsupervised learning models. 
-- 💬 Ask me about Machine learning algorithms and anything data! 
+- 🌱 I am currently working as an intern. My main role is ... 
+- 💬 Ask me about Machine learning algorithms or anything data! 
 - 📫 How to reach me: kbarnard625@gmail.com 
 - 😼 GitHub: https://github.com/KearaB
 - 🔗 LinkedIn:www.linkedin.com/in/keara-barnard
