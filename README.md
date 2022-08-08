@@ -5,7 +5,7 @@
 
 
 
-# Hi there 👋🏻,  Keara here.
+# Hi there,  Keara here.👋🏻
 
 ## I am an aspiring Data Scientist from South Africa.
 
@@ -15,14 +15,16 @@ I love solving modern-day problems using classical strategies.
 
 
 ### Skills: 
-* Python3 🐍
+* Python programming 🐍
 * SQL 🐬
 * PowerBI 📊
-* Git 👩🏻‍💻
+* GitHub 👩🏻‍💻
 * Machine Learning 🤖
+* AWS Cloud Computing ☁️
+* Microsoft Visual Studio Code⚡
+* Team leading 📚
 
-- 🌱 I am currently working as an intern. My main role is ... 
-- 💬 Ask me about Machine learning algorithms or anything data! 
+- 🌱 I am currently working as an intern. My main role includes collecting, cleaning, visualizing and interpreting data. 
 - 📫 How to reach me: kbarnard625@gmail.com 
 - 😼 GitHub: https://github.com/KearaB
 - 🔗 LinkedIn:www.linkedin.com/in/keara-barnard
@@ -30,7 +32,5 @@ I love solving modern-day problems using classical strategies.
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KearaB)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=KearaB&show_icons=true)  
 
