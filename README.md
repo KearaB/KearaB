@@ -24,6 +24,8 @@ I love solving modern-day problems using classical strategies.
 * Microsoft Visual Studio Code⚡
 * Team leading 📚
 
+
+
 - 🌱 I am currently working as an intern. My main role includes collecting, cleaning, visualizing and interpreting data. 
 - 📫 How to reach me: kbarnard625@gmail.com 
 - 😼 GitHub: https://github.com/KearaB
