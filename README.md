@@ -30,6 +30,7 @@ I love solving modern-day problems using classical strategies.
 - 📫 How to reach me: kbarnard625@gmail.com 
 - 😼 GitHub: https://github.com/KearaB
 - 🔗 LinkedIn:www.linkedin.com/in/keara-barnard
+- 💻 Website: https://sites.google.com/view/keara-barnard/home?authuser=0
 
 
 
