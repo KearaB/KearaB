@@ -26,7 +26,7 @@ I love solving modern-day problems using classical strategies.
 
 
 
-🌱 I currently work as a Data Analyst Intern. I work collaboratively to solve business problems through coding, machine learning, analytical programming, statistics, and data visualization.  
+🌱 I currently work as a Data Analyst. I work collaboratively to solve business problems through coding, machine learning, analytical programming, statistics, and data visualization.  
 - 📫 How to reach me: kbarnard625@gmail.com 
 - 😼 GitHub: https://github.com/KearaB
 - 🔗 LinkedIn:www.linkedin.com/in/keara-barnard
