@@ -16,13 +16,13 @@ I love solving modern-day problems using classical strategies.
 
 ### Skills: 
 * Python programming 🐍
-* SQL 🐬
-* PowerBI 📊
-* GitHub 👩🏻‍💻
+* SQL, MySQL, PostgreSQL 🐬
+* Version Control 👩🏻‍💻
 * Machine Learning 🤖
-* AWS Cloud Computing ☁️
-* Microsoft Visual Studio Code⚡
+* Cloud Computing ☁️
 * Team leading 📚
+* Data Visualization 📈
+* Communication 🔊
 
 
 
