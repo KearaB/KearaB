@@ -9,14 +9,23 @@
 
 
 ### Skills: 
-* Python programming 🐍
-* SQL, MySQL, PostgreSQL 🐬
-* Version Control 👩🏻‍💻
-* Machine Learning 🤖
-* Cloud Computing ☁️
-* Team leading 📚
-* Data Visualization 📈
-* Communication 🔊
+* Python Programming
+* SQL (DBMS)
+* Data Visualization
+* Data Wrangling
+* AWS Cloud Computing
+* Django
+* Software Developing
+* Machine Learning & AI
+* Version Control
+* CI/CD
+* HTML, CSS
+* Rapid Assimilation
+* Strong Communication
+* Leadership & Team Coordination
+* Independently Driven
+* Analytical Mindset
+
 
 ---
 ### How to Reach me: 
