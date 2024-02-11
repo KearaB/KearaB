@@ -28,7 +28,7 @@
 
 
 ---
-### How to Reach me: 
+### 🗣️How to Reach me: 
 
 🌱 I currently work as a Data Analyst. I work collaboratively to solve business problems through coding, machine learning, analytical programming, statistics, and data visualization.  
 
