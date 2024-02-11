@@ -2,13 +2,13 @@
 ![DATA (2)](https://github.com/KearaB/KearaB/assets/100834626/2ccf11e1-786f-46f7-8b0a-4fa46f7d7e9a)
 
 
-# Hi there,  Keara here.👋🏻
+# Hi there,  Keara here👋🏻
 ---
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
 
-### Skills: 
+### 🌻Skills: 
 * Python Programming
 * SQL (DBMS)
 * Data Visualization
