@@ -1,5 +1,6 @@
 
-![DATA (2)](https://github.com/KearaB/KearaB/assets/100834626/2ccf11e1-786f-46f7-8b0a-4fa46f7d7e9a)
+![DATA (3)](https://github.com/KearaB/KearaB/assets/100834626/04e46393-7d1b-4cf0-81bf-c7154a486c59)
+
 
 
 # Hi there,  Keara here👋🏻
