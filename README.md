@@ -21,6 +21,7 @@
 * Version Control
 * CI/CD
 * HTML, CSS
+* Docker
 * Rapid Assimilation
 * Strong Communication
 * Leadership & Team Coordination
