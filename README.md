@@ -30,11 +30,11 @@
 
 
 ---
-### 🗣️How to Reach me: 
+### 🗣️How to Reach Me: 
 
 🌱 I currently work as a Data Analyst. I work collaboratively to solve business problems through coding, machine learning, analytical programming, statistics, and data visualization.  
 
-- 📫 Email: kbarnard625@gmail.com 
+- 📫 Email: keara.barnard.dev@gmail.com 
 - 😼 GitHub: https://github.com/KearaB
 - 🔗 LinkedIn:www.linkedin.com/in/keara-barnard
 - 💻 Website: [https://sites.google.com/view/keara-barnard/home?authuser=0](https://sites.google.com/view/keara-barnard/home?authuser=0)
