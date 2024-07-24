@@ -1,6 +1,6 @@
 
-![DATA (3)](https://github.com/KearaB/KearaB/assets/100834626/04e46393-7d1b-4cf0-81bf-c7154a486c59)
 
+![banner](https://github.com/user-attachments/assets/32927ef4-fb7f-44d6-857f-9accde089cca)
 
 
 # Hi there,  Keara here👋🏻
