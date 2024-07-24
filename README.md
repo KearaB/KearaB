@@ -32,7 +32,7 @@
 ---
 ### 🗣️How to Reach Me: 
 
-🌱 I currently work as a Data Analyst. I work collaboratively to solve business problems through coding, machine learning, analytical programming, statistics, and data visualization.  
+🌱 As an Analytics Engineer, I work collaboratively to solve business problems by utilizing various tools and technologies.  
 
 - 📫 Email: keara.barnard.dev@gmail.com 
 - 😼 GitHub: https://github.com/KearaB
