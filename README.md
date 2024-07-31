@@ -37,7 +37,7 @@
 - 📫 Email: keara.barnard.dev@gmail.com 
 - 😼 GitHub: https://github.com/KearaB
 - 🔗 LinkedIn:www.linkedin.com/in/keara-barnard
-- 💻 Website: [https://sites.google.com/view/keara-barnard/home?authuser=0](https://sites.google.com/view/keara-barnard/home?authuser=0)
+- 💻 Website: [https://sites.google.com/view/keara-barnard/home?authuser=0](https://sites.google.com/view/keara-barnard/home)
 
 
 ---
