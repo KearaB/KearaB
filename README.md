@@ -6,20 +6,26 @@
 # Hi there,  Keara here👋🏻
 ---
 
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
+<img align="right" alt="Coding" width="200" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
+### 🌱 Bio: 
+As an Analytics Engineer, I work collaboratively to solve business problems by utilizing various tools and technologies.
+I architect and refine robust data models and manage complex data transformations that underpin strategic business desicions.
 
+    
 ### 🌻Skills: 
 * Python Programming
-* SQL (DBMS)
+* SQL
 * Data Visualization
 * Data Wrangling
-* AWS Cloud Computing
+* Data Modeling
+* dbt
+* Cloud Computing
 * Django
 * Software Developing
 * Machine Learning & AI
 * Version Control
-* CI/CD
+* BigQuery
 * HTML, CSS
 * Docker
 * Rapid Assimilation
@@ -30,14 +36,12 @@
 
 
 ---
-### 🗣️How to Reach Me: 
+### 🗣️How to Reach Me:
 
-🌱 As an Analytics Engineer, I work collaboratively to solve business problems by utilizing various tools and technologies.  
-
-- 📫 Email: keara.barnard.dev@gmail.com 
-- 😼 GitHub: https://github.com/KearaB
-- 🔗 LinkedIn:www.linkedin.com/in/keara-barnard
-- 💻 Website: [https://sites.google.com/view/keara-barnard/home?authuser=0](https://sites.google.com/view/keara-barnard/home)
+- 📫 [Email](keara.barnard.dev@gmail.com)
+- 😼 [GitHub](https://github.com/KearaB)
+- 🔗 [LinkedIn](www.linkedin.com/in/keara-barnard)
+- 💻 [Portfolio Website](https://sites.google.com/view/keara-barnard/home)
 
 
 ---
