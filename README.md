@@ -38,7 +38,7 @@ I architect and refine robust data models and manage complex data transformation
 ---
 ### 🗣️How to Reach Me:
 
-- 📫 [Email](keara.barnard.dev@gmail.com)
+- 📫 [Email](mailto:keara.barnard.dev@gmail.com)
 - 😼 [GitHub](https://github.com/KearaB)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/keara-barnard/)
 - 💻 [Portfolio Website](https://sites.google.com/view/keara-barnard/home)
