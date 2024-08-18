@@ -42,6 +42,7 @@ I architect and refine robust data models and manage complex data transformation
 - 😼 [GitHub](https://github.com/KearaB)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/keara-barnard/)
 - 💻 [Portfolio Website](https://sites.google.com/view/keara-barnard/home)
+- 🎖️ [Certificates & Licenses](https://github.com/KearaB/Certificates-Licenses)
 
 
 ---
