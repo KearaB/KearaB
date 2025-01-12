@@ -13,21 +13,34 @@ As an Analytics Engineer, I work collaboratively to solve business problems by u
 I architect and refine robust data models and manage complex data transformations that underpin strategic business desicions.
 
     
-### 🌻Skills: 
-* Python Programming
+### ⚙️ Tech Stack: 
+* dbt - Data Build Tool
+* GCP
+  * BigQuery
+  * Looker
+* AWS
+  * RedShift
+  * RDS
+  * Glue
+  * QuickSight
+  * EC2
+  * Lambda
+* GitLab & GitHub
+  * Version Control
 * SQL
+* Python Programming
+* Django
+* Docker
+* HTML, CSS
+* Data Modeling
 * Data Visualization
 * Data Wrangling
-* Data Modeling
-* dbt
 * Cloud Computing
-* Django
 * Software Developing
 * Machine Learning & AI
-* Version Control
-* BigQuery
-* HTML, CSS
-* Docker
+
+
+### 🌻 Soft Skills 
 * Rapid Assimilation
 * Strong Communication
 * Leadership & Team Coordination
@@ -41,8 +54,6 @@ I architect and refine robust data models and manage complex data transformation
 - 📫 [Email](mailto:keara.barnard.dev@gmail.com)
 - 😼 [GitHub](https://github.com/KearaB)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/keara-barnard/)
-- 🎖️ [Certificates & Licenses](https://github.com/KearaB/Certificates-Licenses)
-
 
 ---
 
