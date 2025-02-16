@@ -11,7 +11,15 @@
 
 <br>
 
-### ⚙️ Tech Stack:
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kearab/kearab/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kearab/kearab/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/kearab/kearab/output/github-snake.svg" />
+</picture>
+
+<br>
+
+## ⚙️ Tech Stack:
 <div align="left">
   <img src="https://cdn.simpleicons.org/anaconda/44A833" height="40" alt="anaconda logo"  />
   <img width="12" />
@@ -67,19 +75,7 @@
 
 <br>
 
-### 🌐 Socials:
-<div align="left">
-  <a href="https://www.linkedin.com/in/keara-barnard/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="25" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="keara.barnard.dev@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="25" height="25" alt="gmail logo"  />
-  </a>
-</div>
-
-<br>
-
-### 📈 GitHub Stats:
+## 📈 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=KearaB&theme=prussian&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=KearaB&theme=prussian&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KearaB&theme=prussian&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
@@ -87,9 +83,15 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=KearaB&theme=prussian&no-frame=false&no-bg=true&margin-w=4)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kearab/kearab/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kearab/kearab/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/kearab/kearab/output/github-snake.svg" />
-</picture>
+---
+<br>
+<br>
 
+<div align="center">
+  <a href="https://www.linkedin.com/in/keara-barnard/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="25" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://keara.barnard.dev@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="25" height="25" alt="gmail logo"  />
+  </a>
+</div>
