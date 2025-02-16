@@ -86,7 +86,6 @@
 
 ---
 <br>
-<br>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/keara-barnard/" target="_blank">
