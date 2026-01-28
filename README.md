@@ -7,7 +7,7 @@
 # Hey there,  Keara here👋🏻
 
 ### 💫  About Me:
-<p align="left">As an Analytics Engineer, I work collaboratively to solve business problems by utilizing various tools and technologies. I architect and refine robust data models and manage complex data transformations that underpin strategic business desicions.<br><br>🔭 I’m currently working on building scalable dbt models, optimizing SQL queries, and improving data pipelines for analytics and reporting.<br><br>👯 I’m looking to collaborate on open-source projects in data engineering, analytics engineering, and Python-based automation for ETL/ELT workflows.<br><br>🤝 I’m always keen to learn more about new advancements in dbt Cloud, best practices for CI/CD in data workflows, and the ever-evolving landscape of data warehouse design.<br><br>🌱 I’m currently learning more about performance tuning in Google SQL, orchestration tools (Airflow), and advanced backend optimizations.<br><br>💬 Ask me about Analytics Engineering, dbt best practices, SQL performance tuning, Python for data workflows, and version control strategies.<br><br>⚡ Fun fact - I never thought I’d work in data, until data found me.</p>
+<p align="left">As an Analytics Engineer, I work collaboratively to solve business problems by utilizing various tools and technologies. I architect and refine robust data models and manage complex data transformations that underpin strategic business desicions.<br><br>🔭 I’m currently working on building scalable dbt models, optimizing SQL queries, and improving data pipelines for analytics and reporting.<br><br>👯 I’m looking to collaborate on open-source projects in data engineering, analytics engineering, and Python-based automation for ETL/ELT workflows.<br><br>🤝 I’m always keen to learn more about new advancements in dbt Cloud, best practices for CI/CD in data workflows, and the ever-evolving landscape of data warehouse design.<br><br>🌱 I’m currently learning more about performance tuning in Google SQL, orchestration tools (Airflow), and advanced backend optimizations.<br><br>💬 Ask me about Analytics Engineering, dbt best practices, SQL performance tuning, Python for data workflows, and version control strategies.<br><br>⚡ Fun fact - I collect side quests: hiking trails, martial arts classes, pottery experiments, and automating small annoyances around the house.</p>
 
 <br>
 
@@ -63,13 +63,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/canva/00C4CC" height="40" alt="canva logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/css3/1572B6" height="40" alt="css3 logo"  />
   <img width="12" />
   
 </div>
