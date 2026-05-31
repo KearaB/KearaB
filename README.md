@@ -1,15 +1,21 @@
-
-
 <p align="center">
   <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" alt="Coding" width="300">
 </p>
 
-# Hey there,  Keara here👋🏻
+<h1 align="center">KB // KEARA BARNARD</h1>
+<p align="center"><code>Analytics Engineer &nbsp;·&nbsp; AI Tinkerer &nbsp;·&nbsp; Cape Town</code></p>
 
-### 💫  About Me:
-<p align="left">As an Analytics Engineer, I work collaboratively to solve business problems by utilizing various tools and technologies. I architect and refine robust data models and manage complex data transformations that underpin strategic business desicions.<br><br>🔭 I’m currently working on building scalable dbt models, optimizing SQL queries, and improving data pipelines for analytics and reporting.<br><br>👯 I’m looking to collaborate on open-source projects in data engineering, analytics engineering, and Python-based automation for ETL/ELT workflows.<br><br>🤝 I’m always keen to learn more about new advancements in dbt Cloud, best practices for CI/CD in data workflows, and the ever-evolving landscape of data warehouse design.<br><br>🌱 I’m currently learning more about performance tuning in Google SQL, orchestration tools (Airflow), and advanced backend optimizations.<br><br>💬 Ask me about Analytics Engineering, dbt best practices, SQL performance tuning, Python for data workflows, and version control strategies.<br><br>⚡ Fun fact - I collect side quests: hiking trails, martial arts classes, pottery experiments, and automating small annoyances around the house.</p>
+---
 
-<br>
+### // ABOUT
+
+Analytics Engineer specialising in dbt + BigQuery + Looker, building data infrastructure that people actually trust - clean models, consistent metrics, and pipelines that don't page anyone at 3am.
+
+Currently weaving AI tooling into the analytics engineering workflow: Claude Code, custom MCP servers, and governed metric delivery at scale via the dbt Semantic Layer. Building data products that last, not dashboards that quietly drift.
+
+Open to collaborating on data engineering projects, analytics tooling, or anything at the intersection of AI and data infrastructure.
+
+---
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kearab/kearab/output/github-snake-dark.svg" />
@@ -17,77 +23,57 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/kearab/kearab/output/github-snake.svg" />
 </picture>
 
-<br>
+---
 
-## ⚙️ Tech Stack:
+### // STACK
+
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
+  <img src="https://img.shields.io/badge/dbt-FF694B?logo=dbt&logoColor=white&style=flat-square" height="40" alt="dbt" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="GCP" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="AWS" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  />
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="Python" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+  <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="Git" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=gitlab" height="40" alt="gitlab logo"  />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
+  <img src="https://skillicons.dev/icons?i=gitlab" height="40" alt="GitLab" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="Docker" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/jupyter/F37626" height="40" alt="jupyter logo"  />
+  <img src="https://cdn.simpleicons.org/jupyter/F37626" height="40" alt="Jupyter" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/anaconda/44A833" height="40" alt="anaconda logo"  />
+  <img src="https://cdn.simpleicons.org/numpy/013243" height="40" alt="NumPy" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/numpy/013243" height="40" alt="numpy logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="Pandas" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/jira/0052CC" height="40" alt="jira logo"  />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="MySQL" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/trello/0052CC" height="40" alt="trello logo"  />
+  <img src="https://cdn.simpleicons.org/jira/0052CC" height="40" alt="Jira" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="40" alt="slack logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VSCode" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=discord" height="40" alt="discord logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/sqlite/003B57" height="40" alt="sqlite logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="html5 logo"  />
-  <img width="12" />
-  
+  <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="HTML5" />
 </div>
 
-<br>
-
-## 📈 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=KearaB&theme=prussian&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=KearaB&theme=prussian&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=KearaB&theme=prussian&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=KearaB&theme=prussian&no-frame=false&no-bg=true&margin-w=4)
-
 ---
-<br>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/keara-barnard/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="25" height="25" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="25" height="25" alt="LinkedIn" />
   </a>
-  <a href="https://keara.barnard.dev@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="25" height="25" alt="gmail logo"  />
+  &nbsp;&nbsp;
+  <a href="mailto:keara.barnard.dev@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="25" height="25" alt="Email" />
   </a>
 </div>
+
+<br>
+<p align="center"><em>Most of my day-to-day work lives in private repos - public activity here doesn't paint the full picture ;)</em></p>
+
+---
